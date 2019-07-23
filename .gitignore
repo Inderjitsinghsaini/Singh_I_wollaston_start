@@ -1,0 +1,5 @@
+.Ds_Store
+*.ai
+*.psd
+*.eps
+node_modules
